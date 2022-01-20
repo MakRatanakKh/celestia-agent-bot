@@ -1,0 +1,14 @@
+[
+  {
+    "command": "/start",
+    "description": "Start"
+  },
+  {
+    "command": "/services",
+    "description": "List All Services"
+  },
+  {
+    "command": "/date",
+    "description": "Get Current Date"
+  }
+]
